@@ -1,6 +1,9 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Tugas 4 PBO Exception Handling 
+Nama : Muhammad Afiq Jakhel
+NIM : 2311523011
+Kelas : PBO A
 
 ## Folder Structure
 
